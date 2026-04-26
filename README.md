@@ -47,6 +47,7 @@ That's it. Claude takes it from there.
 |------|---------|
 | `README.md` | You are here — overview and quick start |
 | `WORKFLOW.md` | Full methodology reference — read this before customizing |
+| `ARCHITECTURE.md` | Mermaid diagrams of the artifact data flow (high-level + detail) |
 | `BOOTSTRAP_PROMPT.md` | The prompt that starts the entire pipeline |
 | `templates/` | Template files generated during the pipeline (PLANNING, DEVPLAN, WORKPLAN, CLAUDE, DEVLOG, KICKOFF_PROMPT) |
 
